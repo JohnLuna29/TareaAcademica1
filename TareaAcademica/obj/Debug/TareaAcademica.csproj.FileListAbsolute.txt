@@ -1,0 +1,10 @@
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\bin\Debug\TareaAcademica.exe.config
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\bin\Debug\TareaAcademica.exe
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\bin\Debug\TareaAcademica.pdb
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.csproj.AssemblyReference.cache
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.Form1.resources
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.Properties.Resources.resources
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.csproj.GenerateResource.cache
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.csproj.CoreCompileInputs.cache
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.exe
+D:\JOHN UPC\2024-1\Fundamentos de Sistemas de Información\Semana 2\TareaAcademica\obj\Debug\TareaAcademica.pdb
